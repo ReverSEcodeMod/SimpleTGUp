@@ -1,4 +1,4 @@
-aiohttp==3.6.2
+aiohttp
 beautifulsoup4
 git+git://github.com/google/chatbase-python.git
 hachoir
@@ -7,5 +7,5 @@ Pillow
 pyrogram
 requests
 tgcrypto
-youtube-dl==2020.11.17
+youtube-dl
 olefile
