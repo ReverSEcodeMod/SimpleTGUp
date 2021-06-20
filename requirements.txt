@@ -9,3 +9,7 @@ requests
 tgcrypto
 youtube-dl
 olefile
+certifi
+httplib2
+PySocks
+urllib3
