@@ -1,6 +1,7 @@
 aiohttp
 beautifulsoup4
 hachoir
+lxml
 numpy
 Pillow
 pyrogram
