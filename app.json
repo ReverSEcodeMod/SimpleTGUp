@@ -1,6 +1,6 @@
 {
-  "name": "Telegram URL Uploader",
-  "description": "Most popular open source url uploaderbot in world",
+  "name": "Simple URL Uploader",
+  "description": "Simple and powerful open source url uploaderbot in world",
   "keywords": [
     "telegram",
     "best",
@@ -15,8 +15,8 @@
     "uploader"
   ],
   "success_url": "https://telegram.dog/BotFather",
-  "website": "https://github.com/ReverseClone/TG-URL-Uploader",
-  "repository": "https://github.com/ReverseClone/TG-URL-Uploader",
+  "website": "https://github.com/ReverSEcodeMod/SimpleTGUp",
+  "repository": "https://github.com/ReverSEcodeMod/SimpleTGUp",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
